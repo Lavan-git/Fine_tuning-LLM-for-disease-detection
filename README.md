@@ -28,9 +28,7 @@ train.jsonl
 test.jsonl
 confusion_matrix.png
 demo_outputs.json
-preds_demo.json
-assignment_artifacts.zip
-Notebook.ipynb
+Untitled_LAVANGUPTA.ipynb
 README.md
 ```
 
@@ -112,6 +110,9 @@ demo_outputs.json
 4. Fine-tuned model will generate predictions + evaluation  
 
 ---
+
+## Video link 
+  https://youtu.be/YzNTLxs1P-A
 
 ## 🙌 **Author**
 **Lavan Gupta**
