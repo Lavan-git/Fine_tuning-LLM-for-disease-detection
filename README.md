@@ -1,9 +1,9 @@
-# 🚑 Disease Prediction Using Fine-Tuned LLM  
+#  Disease Prediction Using Fine-Tuned LLM  
 *A Machine Learning Project by Lavan Gupta*
 
 ---
 
-## 📌 **Project Overview**
+##  **Project Overview**
 
 This project implements a complete workflow for **disease prediction** using a **fine-tuned Large Language Model (LLM)**.  
 Given a set of symptoms, the model predicts the most likely disease and provides a short explanation and disclaimer.
