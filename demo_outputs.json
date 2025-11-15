@@ -1,0 +1,29 @@
+[
+  {
+    "query": "Symptoms: Fever, headache, body pain",
+    "parsed_output": {
+      "disease": "Influenza",
+      "explanation": "The predicted disease is Influenza. To prevent Influenza, you should stay away from people, wash hands, cover mouth while coughing, avoid spicy food.",
+      "disclaimer": "Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns."
+    },
+    "raw_output": "{\"disease\": \"Influenza\", \"explanation\": \"The predicted disease is Influenza. To prevent Influenza, you should stay away from people, wash hands, cover mouth while coughing, avoid spicy food.\", \"disclaimer\": \"Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns.\"}"
+  },
+  {
+    "query": "Symptoms: Fever, cough, sore throat",
+    "parsed_output": {
+      "disease": "Bronchitis",
+      "explanation": "The predicted disease is Bronchitis. To prevent Bronchitis, you should drink hot water, gargle with salt water, avoid spicy food, consult doctor.",
+      "disclaimer": "Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns."
+    },
+    "raw_output": "{\"disease\": \"Bronchitis\", \"explanation\": \"The predicted disease is Bronchitis. To prevent Bronchitis, you should drink hot water, gargle with salt water, avoid spicy food, consult doctor.\", \"disclaimer\": \"Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns.\"}"
+  },
+  {
+    "query": "Symptoms: itching, skin rash, nodal skin eruptions",
+    "parsed_output": {
+      "disease": "Eczema",
+      "explanation": "The predicted disease is Eczema. To prevent Eczema, you should use medicated soap, apply moisturizer, do not scratch, wash clothes in hot water.",
+      "disclaimer": "Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns."
+    },
+    "raw_output": "{\"disease\": \"Eczema\", \"explanation\": \"The predicted disease is Eczema. To prevent Eczema, you should use medicated soap, apply moisturizer, do not scratch, wash clothes in hot water.\", \"disclaimer\": \"Disclaimer: This information is for educational purposes only and should not be used as a substitute for professional medical advice. Always consult with a qualified healthcare provider for any health concerns.\"}"
+  }
+]
